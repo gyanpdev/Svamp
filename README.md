@@ -34,7 +34,11 @@ Press G to hide the Settings (Gear) button for a clean, distraction-free visual.
 📥 Installation
 Download the latest .deb package from the  page.
 
-Install via terminal:
+go to the download folder and open in terminal
+type "sudo dpkg -i ( pachage name ) and then press enter
+
+you can also install it just by clicking on package through app center
+
 
 📜 License & Privacy
 This software is Proprietary.
